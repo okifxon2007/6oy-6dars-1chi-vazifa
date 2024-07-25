@@ -1,0 +1,61 @@
+.onein form{
+    display: flex;
+    
+}
+.boxing h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.oneini input{
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    margin-left: 55px;
+    width: 180px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.oneini label{
+    margin-left: 55px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.twoin label{
+    margin-left: 52px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.twoin input{
+    margin-left: 52px;
+    width: 380px;
+    height: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid silver;
+}
+.twoin {
+    margin-top: 10px;
+}
+.datebirth{
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.datebirth input{
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    font-size: 13px;
+}
+.but{
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 35px;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    
+}
